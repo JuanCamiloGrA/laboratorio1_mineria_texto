@@ -1,0 +1,16 @@
+[project]
+name = "text-mining-lab-1"
+version = "0.1.0"
+description = "Text mining and natural language processing lab."
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.7",
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "requests>=2.31",
+    "scikit-learn>=1.3",
+    "wordcloud>=1.9",
+]
+
+[tool.uv]
+package = false

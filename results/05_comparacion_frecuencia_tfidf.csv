@@ -1,0 +1,61 @@
+libro,posicion,termino_frecuente,frecuencia,termino_caracteristico,tf_idf
+The Eyes Have It,1,eyes,9,julia,0.020898909966631515
+The Eyes Have It,2,julia,6,eyes,0.01567418247497364
+The Eyes Have It,3,arm,4,heart,0.013932606644421012
+The Eyes Have It,4,heart,4,arm,0.013932606644421012
+The Eyes Have It,5,passage,4,species,0.010449454983315757
+The Eyes Have It,6,beings,3,incredible,0.010449454983315757
+The Eyes Have It,7,earth,3,knowledge,0.010449454983315757
+The Eyes Have It,8,incredible,3,reference,0.010449454983315757
+The Eyes Have It,9,knowledge,3,obviously,0.010449454983315757
+The Eyes Have It,10,obviously,3,passage,0.006966303322210506
+The Eyes Have It,11,quite,3,leaped,0.006966303322210506
+The Eyes Have It,12,reference,3,garage,0.006966303322210506
+The Eyes Have It,13,species,3,followed,0.006966303322210506
+The Eyes Have It,14,wife,3,bibney,0.006966303322210506
+The Eyes Have It,15,absolutely,2,race,0.006966303322210506
+Keep Out,1,years,12,mars,0.026377693974797074
+Keep Out,2,mars,9,conditions,0.020515984202619943
+Keep Out,3,air,8,martians,0.020515984202619943
+Keep Out,4,conditions,7,dome,0.020515984202619943
+Keep Out,5,dome,7,years,0.017585129316531382
+Keep Out,6,martians,7,gradually,0.014654274430442819
+Keep Out,7,earth,6,teachers,0.011723419544354255
+Keep Out,8,live,6,kill,0.011723419544354255
+Keep Out,9,children,5,live,0.008792564658265691
+Keep Out,10,gradually,5,food,0.008792564658265691
+Keep Out,11,tomorrow,5,glassite,0.008792564658265691
+Keep Out,12,kill,4,changing,0.008792564658265691
+Keep Out,13,long,4,cold,0.008792564658265691
+Keep Out,14,planet,4,progeny,0.008792564658265691
+Keep Out,15,space,4,earthmen,0.008792564658265691
+Navy Day,1,army,13,army,0.020714743327078823
+Navy Day,2,navy,12,navy,0.019121301532688144
+Navy Day,3,congress,9,general,0.01434097614951611
+Navy Day,4,general,9,congress,0.01434097614951611
+Navy Day,5,water,7,admiral,0.009560650766344072
+Navy Day,6,admiral,6,gentlemen,0.007967208971953394
+Navy Day,7,surface,6,forward,0.007967208971953394
+Navy Day,8,forward,5,wingrove,0.007967208971953394
+Navy Day,9,gentlemen,5,naval,0.006373767177562715
+Navy Day,10,wingrove,5,water,0.005577046280367376
+Navy Day,11,line,4,attack,0.004780325383172036
+Navy Day,12,morning,4,silence,0.004780325383172036
+Navy Day,13,naval,4,cars,0.004780325383172036
+Navy Day,14,sea,4,trucks,0.004780325383172036
+Navy Day,15,world,4,carriers,0.004780325383172036
+2 B R 0 2 B,1,wehling,22,wehling,0.03163742317908464
+2 B R 0 2 B,2,hitz,21,hitz,0.030199358489126246
+2 B R 0 2 B,3,painter,14,painter,0.0201329056594175
+2 B R 0 2 B,4,people,13,duncan,0.017256776279500712
+2 B R 0 2 B,5,duncan,12,orderly,0.01581871158954232
+2 B R 0 2 B,6,orderly,11,triplets,0.01006645282970875
+2 B R 0 2 B,7,happy,10,leora,0.01006645282970875
+2 B R 0 2 B,8,old,10,mural,0.008628388139750356
+2 B R 0 2 B,9,good,7,population,0.008628388139750356
+2 B R 0 2 B,10,leora,7,purple,0.008628388139750356
+2 B R 0 2 B,11,triplets,7,old,0.007190323449791963
+2 B R 0 2 B,12,life,6,happy,0.007190323449791963
+2 B R 0 2 B,13,live,6,thanks,0.007190323449791963
+2 B R 0 2 B,14,mural,6,garden,0.007190323449791963
+2 B R 0 2 B,15,number,6,termination,0.005752258759833571

@@ -1,0 +1,961 @@
+{
+  "corpus": [
+    {
+      "gutenberg_id": 31516,
+      "libro": "The Eyes Have It",
+      "autor": "Philip K. Dick",
+      "tokens_limpios": 398,
+      "vocabulario": 316,
+      "url": "https://www.gutenberg.org/ebooks/31516"
+    },
+    {
+      "gutenberg_id": 29142,
+      "libro": "Keep Out",
+      "autor": "Fredric Brown",
+      "tokens_limpios": 473,
+      "vocabulario": 317,
+      "url": "https://www.gutenberg.org/ebooks/29142"
+    },
+    {
+      "gutenberg_id": 30019,
+      "libro": "Navy Day",
+      "autor": "Harry Harrison",
+      "tokens_limpios": 870,
+      "vocabulario": 682,
+      "url": "https://www.gutenberg.org/ebooks/30019"
+    },
+    {
+      "gutenberg_id": 21279,
+      "libro": "2 B R 0 2 B",
+      "autor": "Kurt Vonnegut",
+      "tokens_limpios": 964,
+      "vocabulario": 606,
+      "url": "https://www.gutenberg.org/ebooks/21279"
+    }
+  ],
+  "top_frecuentes": {
+    "The Eyes Have It": [
+      {
+        "termino": "eyes",
+        "frecuencia": 9
+      },
+      {
+        "termino": "julia",
+        "frecuencia": 6
+      },
+      {
+        "termino": "arm",
+        "frecuencia": 4
+      },
+      {
+        "termino": "heart",
+        "frecuencia": 4
+      },
+      {
+        "termino": "passage",
+        "frecuencia": 4
+      },
+      {
+        "termino": "beings",
+        "frecuencia": 3
+      },
+      {
+        "termino": "earth",
+        "frecuencia": 3
+      },
+      {
+        "termino": "incredible",
+        "frecuencia": 3
+      },
+      {
+        "termino": "knowledge",
+        "frecuencia": 3
+      },
+      {
+        "termino": "obviously",
+        "frecuencia": 3
+      },
+      {
+        "termino": "quite",
+        "frecuencia": 3
+      },
+      {
+        "termino": "reference",
+        "frecuencia": 3
+      },
+      {
+        "termino": "species",
+        "frecuencia": 3
+      },
+      {
+        "termino": "wife",
+        "frecuencia": 3
+      },
+      {
+        "termino": "absolutely",
+        "frecuencia": 2
+      }
+    ],
+    "Keep Out": [
+      {
+        "termino": "years",
+        "frecuencia": 12
+      },
+      {
+        "termino": "mars",
+        "frecuencia": 9
+      },
+      {
+        "termino": "air",
+        "frecuencia": 8
+      },
+      {
+        "termino": "conditions",
+        "frecuencia": 7
+      },
+      {
+        "termino": "dome",
+        "frecuencia": 7
+      },
+      {
+        "termino": "martians",
+        "frecuencia": 7
+      },
+      {
+        "termino": "earth",
+        "frecuencia": 6
+      },
+      {
+        "termino": "live",
+        "frecuencia": 6
+      },
+      {
+        "termino": "children",
+        "frecuencia": 5
+      },
+      {
+        "termino": "gradually",
+        "frecuencia": 5
+      },
+      {
+        "termino": "tomorrow",
+        "frecuencia": 5
+      },
+      {
+        "termino": "kill",
+        "frecuencia": 4
+      },
+      {
+        "termino": "long",
+        "frecuencia": 4
+      },
+      {
+        "termino": "planet",
+        "frecuencia": 4
+      },
+      {
+        "termino": "space",
+        "frecuencia": 4
+      }
+    ],
+    "Navy Day": [
+      {
+        "termino": "army",
+        "frecuencia": 13
+      },
+      {
+        "termino": "navy",
+        "frecuencia": 12
+      },
+      {
+        "termino": "congress",
+        "frecuencia": 9
+      },
+      {
+        "termino": "general",
+        "frecuencia": 9
+      },
+      {
+        "termino": "water",
+        "frecuencia": 7
+      },
+      {
+        "termino": "admiral",
+        "frecuencia": 6
+      },
+      {
+        "termino": "surface",
+        "frecuencia": 6
+      },
+      {
+        "termino": "forward",
+        "frecuencia": 5
+      },
+      {
+        "termino": "gentlemen",
+        "frecuencia": 5
+      },
+      {
+        "termino": "wingrove",
+        "frecuencia": 5
+      },
+      {
+        "termino": "line",
+        "frecuencia": 4
+      },
+      {
+        "termino": "morning",
+        "frecuencia": 4
+      },
+      {
+        "termino": "naval",
+        "frecuencia": 4
+      },
+      {
+        "termino": "sea",
+        "frecuencia": 4
+      },
+      {
+        "termino": "world",
+        "frecuencia": 4
+      }
+    ],
+    "2 B R 0 2 B": [
+      {
+        "termino": "wehling",
+        "frecuencia": 22
+      },
+      {
+        "termino": "hitz",
+        "frecuencia": 21
+      },
+      {
+        "termino": "painter",
+        "frecuencia": 14
+      },
+      {
+        "termino": "people",
+        "frecuencia": 13
+      },
+      {
+        "termino": "duncan",
+        "frecuencia": 12
+      },
+      {
+        "termino": "orderly",
+        "frecuencia": 11
+      },
+      {
+        "termino": "happy",
+        "frecuencia": 10
+      },
+      {
+        "termino": "old",
+        "frecuencia": 10
+      },
+      {
+        "termino": "good",
+        "frecuencia": 7
+      },
+      {
+        "termino": "leora",
+        "frecuencia": 7
+      },
+      {
+        "termino": "triplets",
+        "frecuencia": 7
+      },
+      {
+        "termino": "life",
+        "frecuencia": 6
+      },
+      {
+        "termino": "live",
+        "frecuencia": 6
+      },
+      {
+        "termino": "mural",
+        "frecuencia": 6
+      },
+      {
+        "termino": "number",
+        "frecuencia": 6
+      }
+    ]
+  },
+  "top_tfidf": {
+    "The Eyes Have It": [
+      {
+        "termino": "julia",
+        "frecuencia": 6,
+        "tf": 0.01507537688442211,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.020898909966631515
+      },
+      {
+        "termino": "eyes",
+        "frecuencia": 9,
+        "tf": 0.022613065326633167,
+        "idf": 0.6931471805599453,
+        "tf_idf": 0.01567418247497364
+      },
+      {
+        "termino": "heart",
+        "frecuencia": 4,
+        "tf": 0.010050251256281407,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.013932606644421012
+      },
+      {
+        "termino": "arm",
+        "frecuencia": 4,
+        "tf": 0.010050251256281407,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.013932606644421012
+      },
+      {
+        "termino": "species",
+        "frecuencia": 3,
+        "tf": 0.007537688442211055,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.010449454983315757
+      },
+      {
+        "termino": "incredible",
+        "frecuencia": 3,
+        "tf": 0.007537688442211055,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.010449454983315757
+      },
+      {
+        "termino": "knowledge",
+        "frecuencia": 3,
+        "tf": 0.007537688442211055,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.010449454983315757
+      },
+      {
+        "termino": "reference",
+        "frecuencia": 3,
+        "tf": 0.007537688442211055,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.010449454983315757
+      },
+      {
+        "termino": "obviously",
+        "frecuencia": 3,
+        "tf": 0.007537688442211055,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.010449454983315757
+      },
+      {
+        "termino": "passage",
+        "frecuencia": 4,
+        "tf": 0.010050251256281407,
+        "idf": 0.6931471805599453,
+        "tf_idf": 0.006966303322210506
+      },
+      {
+        "termino": "leaped",
+        "frecuencia": 2,
+        "tf": 0.005025125628140704,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.006966303322210506
+      },
+      {
+        "termino": "garage",
+        "frecuencia": 2,
+        "tf": 0.005025125628140704,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.006966303322210506
+      },
+      {
+        "termino": "followed",
+        "frecuencia": 2,
+        "tf": 0.005025125628140704,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.006966303322210506
+      },
+      {
+        "termino": "bibney",
+        "frecuencia": 2,
+        "tf": 0.005025125628140704,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.006966303322210506
+      },
+      {
+        "termino": "race",
+        "frecuencia": 2,
+        "tf": 0.005025125628140704,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.006966303322210506
+      }
+    ],
+    "Keep Out": [
+      {
+        "termino": "mars",
+        "frecuencia": 9,
+        "tf": 0.019027484143763214,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.026377693974797074
+      },
+      {
+        "termino": "conditions",
+        "frecuencia": 7,
+        "tf": 0.014799154334038054,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.020515984202619943
+      },
+      {
+        "termino": "martians",
+        "frecuencia": 7,
+        "tf": 0.014799154334038054,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.020515984202619943
+      },
+      {
+        "termino": "dome",
+        "frecuencia": 7,
+        "tf": 0.014799154334038054,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.020515984202619943
+      },
+      {
+        "termino": "years",
+        "frecuencia": 12,
+        "tf": 0.02536997885835095,
+        "idf": 0.6931471805599453,
+        "tf_idf": 0.017585129316531382
+      },
+      {
+        "termino": "gradually",
+        "frecuencia": 5,
+        "tf": 0.010570824524312896,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.014654274430442819
+      },
+      {
+        "termino": "teachers",
+        "frecuencia": 4,
+        "tf": 0.008456659619450317,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.011723419544354255
+      },
+      {
+        "termino": "kill",
+        "frecuencia": 4,
+        "tf": 0.008456659619450317,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.011723419544354255
+      },
+      {
+        "termino": "live",
+        "frecuencia": 6,
+        "tf": 0.012684989429175475,
+        "idf": 0.6931471805599453,
+        "tf_idf": 0.008792564658265691
+      },
+      {
+        "termino": "food",
+        "frecuencia": 3,
+        "tf": 0.006342494714587738,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008792564658265691
+      },
+      {
+        "termino": "glassite",
+        "frecuencia": 3,
+        "tf": 0.006342494714587738,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008792564658265691
+      },
+      {
+        "termino": "changing",
+        "frecuencia": 3,
+        "tf": 0.006342494714587738,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008792564658265691
+      },
+      {
+        "termino": "cold",
+        "frecuencia": 3,
+        "tf": 0.006342494714587738,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008792564658265691
+      },
+      {
+        "termino": "progeny",
+        "frecuencia": 3,
+        "tf": 0.006342494714587738,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008792564658265691
+      },
+      {
+        "termino": "earthmen",
+        "frecuencia": 3,
+        "tf": 0.006342494714587738,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008792564658265691
+      }
+    ],
+    "Navy Day": [
+      {
+        "termino": "army",
+        "frecuencia": 13,
+        "tf": 0.014942528735632184,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.020714743327078823
+      },
+      {
+        "termino": "navy",
+        "frecuencia": 12,
+        "tf": 0.013793103448275862,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.019121301532688144
+      },
+      {
+        "termino": "general",
+        "frecuencia": 9,
+        "tf": 0.010344827586206896,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.01434097614951611
+      },
+      {
+        "termino": "congress",
+        "frecuencia": 9,
+        "tf": 0.010344827586206896,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.01434097614951611
+      },
+      {
+        "termino": "admiral",
+        "frecuencia": 6,
+        "tf": 0.006896551724137931,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.009560650766344072
+      },
+      {
+        "termino": "gentlemen",
+        "frecuencia": 5,
+        "tf": 0.005747126436781609,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.007967208971953394
+      },
+      {
+        "termino": "forward",
+        "frecuencia": 5,
+        "tf": 0.005747126436781609,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.007967208971953394
+      },
+      {
+        "termino": "wingrove",
+        "frecuencia": 5,
+        "tf": 0.005747126436781609,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.007967208971953394
+      },
+      {
+        "termino": "naval",
+        "frecuencia": 4,
+        "tf": 0.004597701149425287,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.006373767177562715
+      },
+      {
+        "termino": "water",
+        "frecuencia": 7,
+        "tf": 0.008045977011494253,
+        "idf": 0.6931471805599453,
+        "tf_idf": 0.005577046280367376
+      },
+      {
+        "termino": "attack",
+        "frecuencia": 3,
+        "tf": 0.0034482758620689655,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.004780325383172036
+      },
+      {
+        "termino": "silence",
+        "frecuencia": 3,
+        "tf": 0.0034482758620689655,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.004780325383172036
+      },
+      {
+        "termino": "cars",
+        "frecuencia": 3,
+        "tf": 0.0034482758620689655,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.004780325383172036
+      },
+      {
+        "termino": "trucks",
+        "frecuencia": 3,
+        "tf": 0.0034482758620689655,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.004780325383172036
+      },
+      {
+        "termino": "carriers",
+        "frecuencia": 3,
+        "tf": 0.0034482758620689655,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.004780325383172036
+      }
+    ],
+    "2 B R 0 2 B": [
+      {
+        "termino": "wehling",
+        "frecuencia": 22,
+        "tf": 0.022821576763485476,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.03163742317908464
+      },
+      {
+        "termino": "hitz",
+        "frecuencia": 21,
+        "tf": 0.021784232365145227,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.030199358489126246
+      },
+      {
+        "termino": "painter",
+        "frecuencia": 14,
+        "tf": 0.014522821576763486,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.0201329056594175
+      },
+      {
+        "termino": "duncan",
+        "frecuencia": 12,
+        "tf": 0.012448132780082987,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.017256776279500712
+      },
+      {
+        "termino": "orderly",
+        "frecuencia": 11,
+        "tf": 0.011410788381742738,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.01581871158954232
+      },
+      {
+        "termino": "triplets",
+        "frecuencia": 7,
+        "tf": 0.007261410788381743,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.01006645282970875
+      },
+      {
+        "termino": "leora",
+        "frecuencia": 7,
+        "tf": 0.007261410788381743,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.01006645282970875
+      },
+      {
+        "termino": "mural",
+        "frecuencia": 6,
+        "tf": 0.006224066390041493,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008628388139750356
+      },
+      {
+        "termino": "population",
+        "frecuencia": 6,
+        "tf": 0.006224066390041493,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008628388139750356
+      },
+      {
+        "termino": "purple",
+        "frecuencia": 6,
+        "tf": 0.006224066390041493,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.008628388139750356
+      },
+      {
+        "termino": "old",
+        "frecuencia": 10,
+        "tf": 0.01037344398340249,
+        "idf": 0.6931471805599453,
+        "tf_idf": 0.007190323449791963
+      },
+      {
+        "termino": "happy",
+        "frecuencia": 10,
+        "tf": 0.01037344398340249,
+        "idf": 0.6931471805599453,
+        "tf_idf": 0.007190323449791963
+      },
+      {
+        "termino": "thanks",
+        "frecuencia": 5,
+        "tf": 0.005186721991701245,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.007190323449791963
+      },
+      {
+        "termino": "garden",
+        "frecuencia": 5,
+        "tf": 0.005186721991701245,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.007190323449791963
+      },
+      {
+        "termino": "termination",
+        "frecuencia": 4,
+        "tf": 0.004149377593360996,
+        "idf": 1.3862943611198906,
+        "tf_idf": 0.005752258759833571
+      }
+    ]
+  },
+  "overlap": [
+    {
+      "libro": "The Eyes Have It",
+      "coincidencias": 10,
+      "porcentaje": 66.66666666666667,
+      "terminos_comunes": "arm, eyes, heart, incredible, julia, knowledge, obviously, passage, reference, species"
+    },
+    {
+      "libro": "Keep Out",
+      "coincidencias": 8,
+      "porcentaje": 53.333333333333336,
+      "terminos_comunes": "conditions, dome, gradually, kill, live, mars, martians, years"
+    },
+    {
+      "libro": "Navy Day",
+      "coincidencias": 10,
+      "porcentaje": 66.66666666666667,
+      "terminos_comunes": "admiral, army, congress, forward, general, gentlemen, naval, navy, water, wingrove"
+    },
+    {
+      "libro": "2 B R 0 2 B",
+      "coincidencias": 10,
+      "porcentaje": 66.66666666666667,
+      "terminos_comunes": "duncan, happy, hitz, leora, mural, old, orderly, painter, triplets, wehling"
+    }
+  ],
+  "asociaciones": [
+    {
+      "libro": "Keep Out",
+      "termino_objetivo": "mars",
+      "archivo_csv": "07_asociaciones_keep_out_mars.csv",
+      "archivo_grafica": "14_asociaciones_keep_out_mars.png",
+      "top_asociaciones": [
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "children",
+          "correlacion": 0.6324555320336759,
+          "frecuencia": 5,
+          "segmentos": 4
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "martians",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 7,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "conditions",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 7,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "gradually",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 5,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "space",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 4,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "long",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 4,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "temperature",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 3,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "cold",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 3,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "inside",
+          "correlacion": 0.4472135954999579,
+          "frecuencia": 3,
+          "segmentos": 3
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "glassite",
+          "correlacion": 0.316227766016838,
+          "frecuencia": 3,
+          "segmentos": 2
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "daptine",
+          "correlacion": 0.316227766016838,
+          "frecuencia": 3,
+          "segmentos": 2
+        },
+        {
+          "libro": "Keep Out",
+          "termino_objetivo": "mars",
+          "termino_asociado": "food",
+          "correlacion": 0.316227766016838,
+          "frecuencia": 3,
+          "segmentos": 2
+        }
+      ]
+    },
+    {
+      "libro": "Navy Day",
+      "termino_objetivo": "army",
+      "archivo_csv": "07_asociaciones_navy_day_army.csv",
+      "archivo_grafica": "15_asociaciones_navy_day_army.png",
+      "top_asociaciones": [
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "naval",
+          "correlacion": 0.46291004988627593,
+          "frecuencia": 4,
+          "segmentos": 4
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "navy",
+          "correlacion": 0.38575837490522985,
+          "frecuencia": 12,
+          "segmentos": 7
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "world",
+          "correlacion": 0.37500000000000006,
+          "frecuencia": 4,
+          "segmentos": 3
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "sea",
+          "correlacion": 0.37500000000000006,
+          "frecuencia": 4,
+          "segmentos": 3
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "turned",
+          "correlacion": 0.37500000000000006,
+          "frecuencia": 3,
+          "segmentos": 3
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "land",
+          "correlacion": 0.37500000000000006,
+          "frecuencia": 3,
+          "segmentos": 3
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "states",
+          "correlacion": 0.288675134594813,
+          "frecuencia": 3,
+          "segmentos": 2
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "battleships",
+          "correlacion": 0.2886751345948129,
+          "frecuencia": 3,
+          "segmentos": 2
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "gentlemen",
+          "correlacion": 0.03857583749052301,
+          "frecuencia": 5,
+          "segmentos": 4
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "water",
+          "correlacion": 0.038575837490523,
+          "frecuencia": 7,
+          "segmentos": 4
+        },
+        {
+          "libro": "Navy Day",
+          "termino_objetivo": "army",
+          "termino_asociado": "congress",
+          "correlacion": 0.038575837490522985,
+          "frecuencia": 9,
+          "segmentos": 4
+        }
+      ]
+    }
+  ],
+  "graficas": {
+    "freq_the_eyes_have_it": "01_frecuentes_the_eyes_have_it.png",
+    "freq_keep_out": "02_frecuentes_keep_out.png",
+    "freq_navy_day": "03_frecuentes_navy_day.png",
+    "freq_2_b_r_0_2_b": "04_frecuentes_2_b_r_0_2_b.png",
+    "cloud_the_eyes_have_it": "05_nube_the_eyes_have_it.png",
+    "cloud_keep_out": "06_nube_keep_out.png",
+    "cloud_navy_day": "07_nube_navy_day.png",
+    "cloud_2_b_r_0_2_b": "08_nube_2_b_r_0_2_b.png",
+    "tfidf_the_eyes_have_it": "09_tfidf_the_eyes_have_it.png",
+    "tfidf_keep_out": "10_tfidf_keep_out.png",
+    "tfidf_navy_day": "11_tfidf_navy_day.png",
+    "tfidf_2_b_r_0_2_b": "12_tfidf_2_b_r_0_2_b.png",
+    "overlap": "13_comparacion_solapamiento.png",
+    "assoc_keep_out": "14_asociaciones_keep_out_mars.png",
+    "assoc_navy_day": "15_asociaciones_navy_day_army.png"
+  }
+}

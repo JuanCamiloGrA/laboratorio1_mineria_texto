@@ -1,0 +1,12 @@
+libro,termino_objetivo,termino_asociado,correlacion,frecuencia,segmentos
+Navy Day,army,naval,0.46291004988627593,4,4
+Navy Day,army,navy,0.38575837490522985,12,7
+Navy Day,army,world,0.37500000000000006,4,3
+Navy Day,army,sea,0.37500000000000006,4,3
+Navy Day,army,turned,0.37500000000000006,3,3
+Navy Day,army,land,0.37500000000000006,3,3
+Navy Day,army,states,0.288675134594813,3,2
+Navy Day,army,battleships,0.2886751345948129,3,2
+Navy Day,army,gentlemen,0.03857583749052301,5,4
+Navy Day,army,water,0.038575837490523,7,4
+Navy Day,army,congress,0.038575837490522985,9,4
